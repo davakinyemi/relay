@@ -1,7 +1,7 @@
 # Relay — Distributed Task Queue & Workflow Engine
 
-> A self-hostable task queue and workflow 
-> orchestration platform built with Spring Boot and PostgreSQL.
+> A task queue and workflow orchestration platform
+> built with Spring Boot and PostgreSQL.
 
 ## Status
 
@@ -29,7 +29,7 @@ asynchronous task execution. It provides:
 | Backend | Spring Boot 3 / Java 21 |
 | Database | PostgreSQL (Neon) |
 | Event Streaming | Apache Kafka (Upstash) |
-| Frontend | Angular 18 / Angular Material |
+| Frontend | Angular 19 / Angular Material |
 
 ## Infrastructure
 
