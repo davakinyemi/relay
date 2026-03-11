@@ -40,7 +40,7 @@ Relay adds a workflow layer on top: multistep sequences where each step depends 
 
 ## Out of Scope — v1.0
 
-- API authentication and authorization
+- Enterprise authentication and authorization (OAuth2, JWT, user management, RBAC) — a static API key is sufficient for v1.0
 - Multi-tenancy
 - Distributed workers across multiple JVMs
 - Recurring / scheduled tasks
