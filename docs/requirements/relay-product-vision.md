@@ -1,7 +1,7 @@
 # Product Vision - Relay
 
 > **Status:** Draft v1.0
-> **Last Updated:** 2026-03-10
+> **Last Updated:** 10.03.2026
 > **Author:** Dave Akinyemi
 
 ---
